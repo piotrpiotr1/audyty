@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dependencies for generating/publishing Python binaries.
 bob-builder==0.0.19
 
